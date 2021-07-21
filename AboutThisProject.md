@@ -1,1 +1,1 @@
-It is a project made up by me for my course of Front-end Developer. I write the HTML and CSS3 code by myself, looking at the first page of website https://www.olx.ro/.
+This is a project written by me as a theme in Front-End Developer course. I write the HTML and CSS3 code on my own, looking at the front page of the site https://www.olx.ro/
